@@ -24,7 +24,7 @@ pyautogui.PAUSE = 1
 pyautogui.hotkey("ctrl", "n")
 pyautogui.click(x=203, y=61)
 pyautogui.click(x=1214, y=31)
-pyautogui.write("https://pages.hashtagtreinamentos.com/aula1-intensivao-sistema")
+pyautogui.write("https://osite que deseja acessar")
 pyautogui.press("enter")
 
 time.sleep(5)
